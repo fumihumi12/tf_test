@@ -1,6 +1,6 @@
 #
 # tf_conv2d.py
-#
+# 2021-07-11 N.Kashiyama
 
 import tensorflow as tf
 import numpy as np
